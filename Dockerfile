@@ -1,6 +1,6 @@
 FROM php:7-alpine
 
-MAINTAINER Fred Cox "mcfedr@gmail.com"
+MAINTAINER Toni Van de Voorde "toni.vdv@gmail.com"
 
 ENV PHP_CS_FIXER_VERSION v2.12.8
 
