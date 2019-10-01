@@ -6,7 +6,7 @@ Image used for running cs fixer on our ci server (https://cs.symfony.com/)
 
 ## Supported tags and respective `Dockerfile` links
 
-* [`2.12.8`, `latest`](https://github.com/adlogix/php-cs-fixer-docker/blob/2.12.8/Dockerfile)
+* [`2.12.12`, `latest`](https://github.com/adlogix/php-cs-fixer-docker/blob/2.12.12/Dockerfile)
 
 ## Build command
 
